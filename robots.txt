@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rviciate.github.io/sitemap.html.gz
+Sitemap: https://rviciate.github.io/app/sitemap.html.gz
+Sitemap: https://rviciate.github.io/assets/sitemap.html.gz
+Sitemap: https://rviciate.github.io/css/sitemap.html.gz
+Sitemap: https://rviciate.github.io/data/sitemap.html.gz
+Sitemap: https://rviciate.github.io/includes/sitemap.html.gz
+Sitemap: https://rviciate.github.io/item/sitemap.html.gz
+Sitemap: https://rviciate.github.io/src/sitemap.html.gz
